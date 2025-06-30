@@ -1,0 +1,39 @@
+[
+    {
+      "name": "GitHub Copilot",
+      "strengths": ["autocomplete", "frontend", "typescript", "python", "pair programming"],
+      "limitations": ["requires VSCode"],
+      "languages": ["Python", "JavaScript", "TypeScript", "Go"]
+    },
+    {
+      "name": "Amazon CodeWhisperer",
+      "strengths": ["backend", "aws", "python", "java", "security"],
+      "limitations": ["limited IDE support"],
+      "languages": ["Python", "Java", "JavaScript", "C#"]
+    },
+    {
+      "name": "Cursor",
+      "strengths": ["refactoring", "debugging", "code navigation", "python"],
+      "limitations": ["not ideal for generating full new projects"],
+      "languages": ["Python", "JavaScript"]
+    },
+    {
+      "name": "Replit Ghostwriter",
+      "strengths": ["full-stack", "live collaboration", "web apps", "js", "python"],
+      "limitations": ["best inside Replit IDE"],
+      "languages": ["Python", "JavaScript", "HTML", "CSS"]
+    },
+    {
+      "name": "Tabnine",
+      "strengths": ["privacy-focused", "fast autocomplete", "offline coding"],
+      "limitations": ["less contextual awareness"],
+      "languages": ["Python", "Java", "C++", "JavaScript"]
+    },
+    {
+      "name": "Codeium",
+      "strengths": ["fast inference", "multi-language", "open source", "autocomplete"],
+      "limitations": ["newer, less community support"],
+      "languages": ["Python", "JavaScript", "C++", "Go", "Java"]
+    }
+  ]
+  
